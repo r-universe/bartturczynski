@@ -1,5 +1,28 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/bartturczynski/bartturczynski.r-universe.dev
 	branch = HEAD
+[submodule "pagerankr"]
+	path = pagerankr
+	url = https://gitlab.com/bart-turczynski/pagerankr
+[submodule "pslr"]
+	path = pslr
+	url = https://gitlab.com/bart-turczynski/pslr
+[submodule "punycoder"]
+	path = punycoder
+	url = https://gitlab.com/bart-turczynski/punycoder
+[submodule "raddr"]
+	path = raddr
+	url = https://gitlab.com/bart-turczynski/raddr
+[submodule "robotstxtr"]
+	path = robotstxtr
+	url = https://gitlab.com/bart-turczynski/robotstxtr
+[submodule "rurl"]
+	path = rurl
+	url = https://gitlab.com/bart-turczynski/rurl
+[submodule "seor"]
+	path = seor
+	url = https://gitlab.com/bart-turczynski/seor
+[submodule "sitemapr"]
+	path = sitemapr
+	url = https://gitlab.com/bart-turczynski/sitemapr
