@@ -23,6 +23,7 @@
 [submodule "seor"]
 	path = seor
 	url = https://gitlab.com/bart-turczynski/seor
+	branch = main
 [submodule "sitemapr"]
 	path = sitemapr
 	url = https://gitlab.com/bart-turczynski/sitemapr
